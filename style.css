@@ -1,0 +1,19 @@
+body{
+    background-color: darkgray;
+}
+#head{
+    margin: auto;
+    height: 75px;
+    width:1000px;
+    background:linear-gradient(white , black);
+    color:white;
+    margin-top: 750x;
+    text-align: center;
+    padding top: 100px;
+}
+h1{
+    padding-top: 30px;
+}
+#bulb{
+    margin-top: 100px;
+}
